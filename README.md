@@ -8,8 +8,3 @@
 <a href="https://twitter.com/anshs17_" rel="Twitter"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" width=3% /></a>
   <a href="https://www.linkedin.com/in/ansh-sharma-73a5051a6/" rel="Linkedin"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width=3% /></a>
     <a href="https://www.youtube.com/channel/UCezjqwLWu4OfM0__kMh5VEQ?" rel="Youtube"><img src="https://www.flaticon.com/svg/static/icons/svg/187/187209.svg" width=3% /></a>
-<p align = "center"><img src = "https://media.giphy.com/media/YpwVvng323pw45tYwv/giphy.gif" width = 5%><p align = "center"><img src = "https://media.giphy.com/media/YpwVvng323pw45tYwv/giphy.gif" width = 5%><p align = "center"><img src = "https://media.giphy.com/media/YpwVvng323pw45tYwv/giphy.gif" width = 5%><p align = "center"><img src = "https://media.giphy.com/media/YpwVvng323pw45tYwv/giphy.gif" width = 5%><p align = "center"><img src = "https://media.giphy.com/media/YpwVvng323pw45tYwv/giphy.gif" width = 5%><p align = "center"><img src = "https://media.giphy.com/media/YpwVvng323pw45tYwv/giphy.gif" width = 5%><p align = "center"><img src = "https://media.giphy.com/media/YpwVvng323pw45tYwv/giphy.gif" width = 5%><p align = "center"><img src = "https://media.giphy.com/media/YpwVvng323pw45tYwv/giphy.gif" width = 5%><p align = "center"><img src = "https://media.giphy.com/media/YpwVvng323pw45tYwv/giphy.gif" width = 5%><p align = "center"><img src = "https://media.giphy.com/media/YpwVvng323pw45tYwv/giphy.gif" width = 5%><p align = "center"><img src = "https://media.giphy.com/media/YpwVvng323pw45tYwv/giphy.gif" width = 5%><p align = "center"><img src = "https://media.giphy.com/media/YpwVvng323pw45tYwv/giphy.gif" width = 5%>
-
-
-
-
